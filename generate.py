@@ -179,5 +179,5 @@ html += '''
 '''
 
 # Rewrite the HTML file
-with open('dist/index.html', 'w') as file:
+with open('docs/index.html', 'w') as file:
     file.write(html)
