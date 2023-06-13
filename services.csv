@@ -1,0 +1,58 @@
+chatGPT,"Code generation, explanation and review",#FF5733,generate human-like text and can be used to generate code in various programming languages
+OpenAI Codex,"Code generation, explanation and review",#FF5733,"It powers GitHub Copilot, a tool that helps developers write code by providing suggestions and autocompleting code"
+CodeT5,"Code generation, explanation and review",#FF5733,An open-source programming language model that can generate code based on natural language descriptions
+AI-ONE,"Code generation, explanation and review",#FF5733, It can be useful for developers by helping them analyze data and build intelligent applications
+Codota,"Code completion",#C70039,An AI-powered code completion tool that helps developers write code faster by providing suggestions and autocompleting code
+Codeium,"Code generation, explanation and review",#FF5733,generates high-quality code based on natural language descriptions
+ChatGPT Copilot from GitHub,"Code generation, explanation and review",#FF5733,An AI assistant for developers that uses GPT4 to help with idea generation and code writing
+AI2Sql,"Code generation, explanation and review",#FF5733,A platform that uses AI to generate SQL queries and help developers work with databases.
+Akkio,"Code generation, explanation and review",#FF5733,A platform that uses AI to automatically generate code and reduce development time.
+Ask Codi,"Code generation, explanation and review",#FF5733,"An AI tool that provides various tools for developers, including code generation, explanations, documentation, and more."
+MutableAI,"Code generation, explanation and review",#FF5733,A platform that uses AI to generate and optimize code.
+Intellisense,"Code completion",#C70039,A code completion feature in All JetBrains' and also Microsoft's Visual Studio IDE that provides suggestions and autocompletes code as the developer types
+Tabnine,"Code completion",#C70039,An AI assistant that predicts and suggests code based on context and syntax.
+GitHub Copilot,"Code completion",#C70039,suggests code and functions based on natural language prompts
+AWS Code whisperer,"Code completion",#C70039, AWS code complation tool similar to Copilot
+Kite,"Code completion",#C70039,code completion tool powered by artificial intelligence (AI) that supported multiple programming languages in IDEs and code editors
+MutableAI,"Code completion",#C70039,"goes beyond just offering autocomplete, code refactoring, and documentation writing. With MutableAI, you can give the AI direct instructions to edit your code"
+IBM Watson,Answering questions,#900C3F,It can be used to build chatbots and virtual assistants that can answer questions in natural language.
+Bing,Answering questions,#900C3F,A search engine that uses AI to provide relevant search results to users' queries.
+IAsk.AI,Answering questions,#900C3F,"A free AI search engine that enables users to ask questions in natural language and receive detailed, accurate responses. It uses similar technologies to chatGPT but is trained on reliable sources to provide objective answers."
+Scalenut,Answering questions,#900C3F,"An AI-powered question-answer generator that enables users to ask questions in natural language and receive detailed, accurate responses."
+Phind,Answering questions,#900C3F,"An AI-powered search tool that provides answers, explanations, and examples based on your question."
+Applitools,"Code analysis and QA",#581845,An AI-powered visual testing tool that helps developers test the visual aspects of their applications. It uses machine learning algorithms to automatically detect visual differences between different versions of an application.
+DeepCode,"Code analysis and QA",#581845,A platform that uses AI to analyze code and identify potential issues and improvements.
+Codiga,"Code analysis and QA",#581845,"An AI-powered coding assistant that helps developers improve the quality of their code by providing real-time feedback on coding style, best practices, potential errors, and other issues."
+Mintlify,Documentation,#DAF7A6,An AI-powered documentation tool that helps developers create high-quality documentation quickly and easily. It uses natural language processing algorithms to generate documentation based on the developer's input.
+Notion,Documentation,#DAF7A6,"A note-taking app with an AI feature called Notion AI, which is powered by OpenAI's GPT-3 algorithm. This feature can generate, proofread, and edit written content using built-in commands. It can be useful for developers in organizing their thoughts and ideas, keeping track of their projects, and generating documentation."
+Obsidian,Documentation,#DAF7A6,A note-taking app focused on creating a knowledge base. It allows to use AI plugins to empower the workflow.
+PDF GPT,Documentation,#DAF7A6,An AI tool that instantly creates summaries and notes for any PDF file.
+Parrot AI,Documentation,#DAF7A6,An AI tool that converts Zoom call recordings or video meetings into notes and summaries.
+Glide,"Websites and applications generation",#FFC300, create mobile applications quickly and easily by using a spreadsheet as the data source
+Uizard,"Websites and applications generation",#FFC300,create websites and mobile applications quickly and easily by converting hand-drawn sketches into digital designs
+Sketch2Code,"Websites and applications generation",#FFC300,An application that converts hand-drawn sketches into working HTML code.
+Appy Pie,"Websites and applications generation",#FFC300,An AI-powered web builder that helps create web applications and mobile apps quickly.
+chatGPT,Soft skill improvers,#FF9A00 , It can be used to generate polite letters and improve communication skills.
+Grammarly,Soft skill improvers,#FF9A00 ,"An AI-powered writing assistant that helps users improve their writing skills by providing suggestions for grammar, spelling, and style."
+Clara,Soft skill improvers,#FF9A00 ,An AI-powered virtual assistant that helps users with scheduling and time management.
+Semantris,Funny stuff,#D35400 ,An AI-powered word association game developed by Google. It can be played for fun or used to improve vocabulary and language skills.
+Generative Engine ,Funny stuff,#D35400 ,"generates random text, images, or music based on user input. It can be used for fun or to generate unique content."
+Cyborg Writer ,Funny stuff,#D35400 ,An AI-powered writing assistant that generates random text based on user input. It can be used for fun or to generate unique content.
+Quick Draw! ,Funny stuff,#D35400 ,An AI-powered drawing game developed by Google. It challenges users to draw a picture of a given object within a certain time limit, while the AI tries to guess what the object is.
+Forecast ,Project Management , #8E44AD ,"An AI-powered project management tool that helps teams plan, track, and manage their projects more efficiently. It uses machine learning algorithms to predict project completion times, identify potential risks, and optimize resource allocation."
+Zoho Projects ,Project Management , #8E44AD ,"An AI-powered project management tool that helps teams plan, track, and manage their projects more efficiently. It uses machine learning algorithms to provide insights into project progress and team performance."
+Nifty Project Management, AI Tools Catalog , #8E44AD ,"An AI-powered project management tool that helps teams plan, track, and manage their projects more efficiently. It uses machine learning algorithms to provide insights into project progress and team performance."
+Postcards AI,Content generation,#1abc9c,"An AI-powered email builder that allows developers to create professional email templates without coding."
+InVideo,Content generation,#1abc9c,"An AI tool that instantly converts ideas into videos by creating scripts and corresponding video clips."
+Adobe Enhance,Audio processing,#3498db,"An AI tool that improves the quality of audio recordings by removing unwanted noise."
+Prime Voice AI,Audio processing,#3498db,"An AI tool that generates audio versions of text with different voices."
+Magic Eraser,Image processing,#9b59b6,"An AI tool that removes unwanted objects from photos."
+Interior AI (Reimagine),Interior design,#34495e,"An AI tool that helps generate ideas for interior improvement based on photos of your space."
+Tome,Content generation,#1abc9c,"An AI-powered storytelling tool that allows users to create stunning presentations and stories using premade or custom templates."
+Nifty AI Tools List, AI Tools Catalog , #8E8eAD , "Ai Powered Ai Tools Catalog"
+InspiroBot,Funny stuff,#D35400 ,An AI-powered meme generator that creates random memes based on user input.
+Animated Drawings,Funny stuff,#D35400,"An AI tool that instantly converts ideas into animated drawings by creating scripts and corresponding drawings."
+Warp,Command Line,#E6A5F7,"A Rust-based terminal built for speed. With Warp, you can type in a terminal like an IDE, navigate your output command by command, and ask AI for help. It is now available on MacOS."
+GitHub Copilot X,Command Line,#E6A5F7,"GitHub's vision for the future of AI-powered software development. It adopts OpenAI’s new GPT-4 model and introduces chat and voice for Copilot, bringing Copilot to pull requests, the command line, and docs to answer questions on your projects."
+CLAI,Command Line,#E6A5F7,"An open-sourced project by IBM aimed to bring the power of AI to the command line. Using CLAI, users of Bash can access a wide range of skills that will enhance their command line experience."
+Fig,Command Line,#E6A5F7,"Adds VSCode-style autocomplete to your existing terminal. Fig supports 500+ popular CLI tools, its completions are open source and it is fully customizable."
