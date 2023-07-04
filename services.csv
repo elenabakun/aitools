@@ -56,3 +56,4 @@ Warp,Command Line,#E6A5F7,"A Rust-based terminal built for speed. With Warp, you
 GitHub Copilot X,Command Line,#E6A5F7,"GitHub's vision for the future of AI-powered software development. It adopts OpenAI’s new GPT-4 model and introduces chat and voice for Copilot, bringing Copilot to pull requests, the command line, and docs to answer questions on your projects."
 CLAI,Command Line,#E6A5F7,"An open-sourced project by IBM aimed to bring the power of AI to the command line. Using CLAI, users of Bash can access a wide range of skills that will enhance their command line experience."
 Fig,Command Line,#E6A5F7,"Adds VSCode-style autocomplete to your existing terminal. Fig supports 500+ popular CLI tools, its completions are open source and it is fully customizable."
+FauxPilot,Code completion,#C70039,"Code completion tool which uses a model running on your local machine to provide completions. It needs a powerful GPU to run."
