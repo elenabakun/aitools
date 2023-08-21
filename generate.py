@@ -151,7 +151,7 @@ html += '''
 
     function searchBing(term) {
         // Replace 'YOUR-SUBSCRIPTION-KEY' with your own Bing Search API subscription key
-        const subscriptionKey = '6906a2419e54496cb939189166c061b7';
+        const subscriptionKey = '756d895ce2444db69b322a0ccb1d241a';
         const url = `https://api.bing.microsoft.com/v7.0/search?q=${encodeURIComponent(term)}+AI+tool`;
 
         fetch(url, {
